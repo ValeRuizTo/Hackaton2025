@@ -1,4 +1,4 @@
-Guía de Ficha Técnica de Proyecto
+ Guía de Ficha Técnica de Proyecto
 🔹 Nombre del proyecto
 
 (Título oficial del proyecto o prototipo)
